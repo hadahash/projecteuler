@@ -1,1 +1,1 @@
-=== Solutions for [ProjectEuler](https://projecteuler.net/)
+### [ProjectEuler](https://projecteuler.net/)
